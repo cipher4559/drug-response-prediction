@@ -1,0 +1,21 @@
+Age,Sex,Tumor_Size,Biomarker_Status,Drug_Response
+45,Male,32,Positive,Complete Response
+60,Female,45,Negative,Partial Response
+30,Male,20,Positive,No Response
+55,Female,50,Negative,Stable Disease
+70,Male,70,Positive,Complete Response
+25,Female,15,Positive,Partial Response
+65,Male,55,Negative,No Response
+40,Female,25,Positive,Stable Disease
+52,Male,40,Negative,Partial Response
+33,Female,18,Positive,Complete Response
+48,Male,30,Negative,Stable Disease
+59,Female,60,Positive,No Response
+28,Male,12,Positive,Complete Response
+62,Female,48,Negative,Partial Response
+36,Male,22,Negative,Stable Disease
+75,Female,80,Positive,No Response
+41,Male,28,Positive,Complete Response
+53,Female,35,Negative,Partial Response
+38,Male,18,Positive,Stable Disease
+67,Female,65,Negative,No Response
